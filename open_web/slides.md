@@ -10,13 +10,15 @@
 * Libres
 
 !SLIDE
-![Locked in](iphone.jpg)
 NO atarse a un proveedor
+
+![Locked in](iphone.jpg)
+
 
 <!SLIDE bullets incremental transition=fade>
 # Objetivos
 
 * Integración e innovación de terceros
-* Descentralización
+* Descentralización (StatusNet, Diaspora)
 * Transparencia
 * Comunicación bilateral

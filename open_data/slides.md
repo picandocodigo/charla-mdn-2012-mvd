@@ -9,12 +9,12 @@ Es una filosofía y práctica que persigue que determinados datos estén disponi
 Tiene una ética similar a otros movimientos y comunidades abiertos como el <strike>código abierto</strike> *software libre* y el acceso libre.
 
 <!SLIDE bullets incremental transition=fade>
-Datos abiertos son:
-
 * Completos
 * Primarios
 * Periódicos
 * Accesibles
+
+<!SLIDE bullets incremental transition=fade>
 * Procesables
 * No discriminatorios
 * No propietarios
@@ -43,6 +43,11 @@ Metas alcanzadas:
 !SLIDE
 # TheyWorkForYou
 ![TheyWorkForYou](theyworkforyou.jpg)
+
+!SLIDE
+# CiudadanoInteligente.cl
+
+![DelDichoAlHecho](deldichoalhecho.jpg)
 
 !SLIDE
 # Uruguay y los datos abiertos
@@ -108,6 +113,14 @@ Andrés Ambrois, Álvaro Mouriño, Francisco Castro, Lucía Escanellas, Michael 
 
 !SLIDE
 # La Web como herramienta de cambio social
+
+!SLIDE
+
+# ¡Cubox está contratando!
+
+![Cubox](cubox-logo-web-transparent.png)
+
+getintouch@cuboxlabs.com
 
 !SLIDE
 # Gracias
