@@ -1,0 +1,15 @@
+{
+  "name": "La Web como herramienta de cambio social",
+  "description": "Presentación para el Mozilla MDN Hack Day Montevideo 2012",
+  "author": "Fernando Briano - http://picandocodigo.net",
+  "templates" : {
+      "special" : "simple.tpl"
+  },
+  "pause_msg": "Pausado !!!",
+  "sections": [
+    {"section":"intro"},
+    {"section":"free_software"},
+    {"section":"open_web"},
+    {"section":"open_data"}
+  ]
+}
